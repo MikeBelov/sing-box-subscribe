@@ -1,3 +1,5 @@
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#%F0%9F%94%92+SS-TCP-NA+%F0%9F%87%A8%F0%9F%87%AD+CH-23.166.88.221%3A8118
 trojan://YBBaC5jQRT6yWfyCO69Kgi9eH@free-at-0.undef.network:443?sni=free-at-0.undef.network&host=free-at-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#HLVPN_EU_MISH
 trojan://iRC9jhIyIIlozhCnqdKOSRzX5@free-at-0.undef.network:443?sni=free-at-0.undef.network&host=free-at-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#HLVPN_EU_NATA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ%3D@208.67.105.196:42029#%F0%9F%94%92+SS-TCP-NA+%F0%9F%87%B3%F0%9F%87%B1+NL-208.67.105.196%3A42029
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#%F0%9F%94%92+SS-TCP-NA+%F0%9F%87%B3%F0%9F%87%B1+NL-193.29.139.202%3A8080
