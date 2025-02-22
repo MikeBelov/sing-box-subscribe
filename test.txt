@@ -1,3 +1,3 @@
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#%F0%9F%94%92+SS-TCP-NA+%F0%9F%87%A8%F0%9F%87%AD+CH-23.166.88.221%3A8118
-trojan://kTTwDV7aqXo56vq5XTViTlQ5E@free-fin-0.undef.network:443?sni=free-fin-0.undef.network&host=free-fin-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#HLVPN_EU_MISH
+trojan://eJotTBHdcu3UlPZaBxTeW0HZN@free-fin-0.undef.network:443?sni=free-fin-0.undef.network&host=free-fin-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#HLVPN_EU_MISH
 trojan://A6SgEj4Z1x6uJogCUHXAqFtFO@free-at-0.undef.network:443?sni=free-at-0.undef.network&host=free-at-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#HLVPN_EU_NATA
