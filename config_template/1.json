@@ -24,10 +24,10 @@
     }
   ],
   "outbounds": [
- {
+    {
       "tag": "auto",
       "type": "urltest",
-      "outbounds": [
+      "outbounds":[
         "{all}"
       ],
       "url": "http://www.gstatic.com/generate_204",
