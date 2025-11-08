@@ -1,1 +1,3 @@
-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZ1JVSDhpTFB2T2dmS2JQTEFyVENROEdl@basic-ru-0.undef.network:35983#HLVPN_RU_BASIC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmN0NLeWJWTllsSkMwY25FNjIzc0dxVVZG@basic-ru-1.undef.network:29121#HLVPN_RU_BASIC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppRHZwVmUzRGE1bmd6dHpsd0RMcHV4RGRD@basic-ru-2.undef.network:24305#HLVPN_RU_BASIC
