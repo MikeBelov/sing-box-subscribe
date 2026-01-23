@@ -1,1 +1,1 @@
-
+trojan://UUF4z6RPE5Xks6oOkSTXmQCUP@hl-freedom-1.undef.network:443?sni=hl-freedom-1.undef.network&host=hl-freedom-1.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#HLVPN_EU_FREE
